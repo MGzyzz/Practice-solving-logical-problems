@@ -1,0 +1,5 @@
+temperature = int(input("Проверка температуры\n"))
+if temperature > 37:
+    print("Пожаловаться родителям")
+else:
+    print("Пойти в школу")
